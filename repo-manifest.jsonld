@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pydata/pydata-sphinx-theme/commit/24aa6558b7a66bd0473234c7031ad53f45181d64",
       "git:hexsha": "24aa6558b7a66bd0473234c7031ad53f45181d64",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pydata/pydata-sphinx-theme/commit/c19680bedca4244e92641b3c5f59d92bb9d2774b",
