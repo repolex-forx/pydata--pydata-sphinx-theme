@@ -1,0 +1,11 @@
+{
+  "org": "pydata",
+  "repo": "pydata-sphinx-theme",
+  "versions": [
+    {
+      "commit": "24aa6558b7a66bd0473234c7031ad53f45181d64",
+      "tag": "",
+      "parsed_at": "2026-10-17T01:18:11.474064+00:00"
+    }
+  ]
+}
