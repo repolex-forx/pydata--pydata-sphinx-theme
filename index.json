@@ -3,6 +3,11 @@
   "repo": "pydata-sphinx-theme",
   "versions": [
     {
+      "commit": "dbbd279ef6a7e1b26c57a6cdeb627b402b4c76c1",
+      "tag": "v0.22.0rc0",
+      "parsed_at": "2026-11-23T05:01:07.107446+00:00"
+    },
+    {
       "commit": "24aa6558b7a66bd0473234c7031ad53f45181d64",
       "tag": "",
       "parsed_at": "2026-10-17T01:18:11.474064+00:00"
