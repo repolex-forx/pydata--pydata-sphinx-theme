@@ -692,6 +692,970 @@
       ],
       "ast": [
         "aggregate/ast/dbbd279ef6a7e1b26c57a6cdeb627b402b4c76c1/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/dbbd279ef6a7e1b26c57a6cdeb627b402b4c76c1.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "@fortawesome/fontawesome-free",
+          "ecosystem": "NPM",
+          "version": "7.2.0",
+          "githubOrg": "FortAwesome",
+          "githubRepo": "Font-Awesome",
+          "githubCommit": "337dd2045d5621ce0f8567c33c256f3dedeed55d",
+          "githubTag": "7.2.0",
+          "githubUrl": "git+https://github.com/FortAwesome/Font-Awesome.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@popperjs/core",
+          "ecosystem": "NPM",
+          "version": "2.11.6",
+          "githubOrg": "popperjs",
+          "githubRepo": "popper-core",
+          "githubCommit": "e764f2cc893e5a9cc466af888f7eb7efa3b197f6",
+          "githubTag": "v2.11.6",
+          "githubUrl": "https://github.com/popperjs/popper-core.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "bootstrap",
+          "ecosystem": "NPM",
+          "version": "5.2.2",
+          "githubOrg": "twbs",
+          "githubRepo": "bootstrap",
+          "githubCommit": "961d5ff9844372a4e294980c667bbe7e0651cdeb",
+          "githubTag": "v5.2.2",
+          "githubUrl": "git+https://github.com/twbs/bootstrap.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "compare-versions",
+          "ecosystem": "NPM",
+          "version": "5.0.3",
+          "githubOrg": "omichelsen",
+          "githubRepo": "compare-versions",
+          "githubCommit": "6f1ac12c8dcf46a7ff94e9ec6c0bf40ff46f637a",
+          "githubTag": "v5.0.3",
+          "githubUrl": "git+https://github.com/omichelsen/compare-versions.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "webpack-bundle-analyzer",
+          "ecosystem": "NPM",
+          "version": "4.10.2",
+          "githubOrg": "webpack",
+          "githubRepo": "webpack-bundle-analyzer",
+          "githubCommit": "a9f10058858010e6d2ddae688d242b5f39e54dcc",
+          "githubTag": "v4.10.2",
+          "githubUrl": "git+https://github.com/webpack/webpack-bundle-analyzer.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "axe-core",
+          "ecosystem": "NPM",
+          "version": "4.6.3",
+          "githubOrg": "dequelabs",
+          "githubRepo": "axe-core",
+          "githubCommit": "4d06caaf120f31cf2fa39d2b4710c745a34a77c8",
+          "githubTag": "v4.6.3",
+          "githubUrl": "https://github.com/dequelabs/axe-core.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "css-loader",
+          "ecosystem": "NPM",
+          "version": "6.8.1",
+          "githubOrg": "webpack",
+          "githubRepo": "css-loader",
+          "githubCommit": "4673caa4aa68d5fb1127c172b4afd081bd56eb73",
+          "githubTag": "v6.8.1",
+          "githubUrl": "git+https://github.com/webpack/css-loader.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "css-minimizer-webpack-plugin",
+          "ecosystem": "NPM",
+          "version": "8.0.0",
+          "githubOrg": "webpack",
+          "githubRepo": "css-minimizer-webpack-plugin",
+          "githubCommit": "c3b98acbd8b533ed5b6ab9a0210fe78939f59d85",
+          "githubTag": "v8.0.0",
+          "githubUrl": "git+https://github.com/webpack/css-minimizer-webpack-plugin.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "dedent",
+          "ecosystem": "NPM",
+          "version": "0.7.0",
+          "githubOrg": "dmnd",
+          "githubRepo": "dedent",
+          "githubCommit": "4ec1f7f70d2049b5652f016f0e71d85d9747bba1",
+          "githubTag": "v0.7.0",
+          "githubUrl": "git+https://github.com/dmnd/dedent.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "html-webpack-plugin",
+          "ecosystem": "NPM",
+          "version": "5.0.0",
+          "githubOrg": "jantimon",
+          "githubRepo": "html-webpack-plugin",
+          "githubCommit": "74fae99c1294c01b71c8ea082fe1557cb5375322",
+          "githubTag": "v5.0.0",
+          "githubUrl": "git+https://github.com/jantimon/html-webpack-plugin.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "imports-loader",
+          "ecosystem": "NPM",
+          "version": "0.8.0",
+          "githubOrg": "webpack-contrib",
+          "githubRepo": "imports-loader",
+          "githubCommit": "a3ac1c556a9d90e59cc30edc99f284d5d9d5e860",
+          "githubTag": "v0.8.0",
+          "githubUrl": "git+https://github.com/webpack-contrib/imports-loader.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "mini-css-extract-plugin",
+          "ecosystem": "NPM",
+          "version": "2.7.5",
+          "githubOrg": "webpack",
+          "githubRepo": "mini-css-extract-plugin",
+          "githubCommit": "ab1d8500f071b581f6e87ee74e2bfd358c88db97",
+          "githubTag": "v2.7.5",
+          "githubUrl": "git+https://github.com/webpack/mini-css-extract-plugin.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "prettier",
+          "ecosystem": "NPM",
+          "version": "3.8.3",
+          "githubOrg": "prettier",
+          "githubRepo": "prettier",
+          "githubCommit": "d7108a79ec745c04292aabf22c4c1adbd690b191",
+          "githubTag": "3.8.3",
+          "githubUrl": "git+https://github.com/prettier/prettier.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "resolve-url-loader",
+          "ecosystem": "NPM",
+          "version": "5.0.0",
+          "githubOrg": "bholloway",
+          "githubRepo": "resolve-url-loader",
+          "githubCommit": "e2695cde68f325f617825e168173df92236efb93",
+          "githubTag": "5.0.0",
+          "githubUrl": "git+https://github.com/bholloway/resolve-url-loader.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "sass",
+          "ecosystem": "NPM",
+          "version": "1.59.3",
+          "githubOrg": "sass",
+          "githubRepo": "dart-sass",
+          "githubCommit": "09a5f09638b3d7a57f55907abcab624f98629d81",
+          "githubTag": "1.59.3",
+          "githubUrl": "git+https://github.com/sass/dart-sass.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "sass-loader",
+          "ecosystem": "NPM",
+          "version": "10.3.1",
+          "githubOrg": "webpack",
+          "githubRepo": "sass-loader",
+          "githubCommit": "221b98258f83aa8c39661b3fa256561fb4b6bd6c",
+          "githubTag": "v10.3.1",
+          "githubUrl": "git+https://github.com/webpack/sass-loader.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "style-loader",
+          "ecosystem": "NPM",
+          "version": "4.0.0",
+          "githubOrg": "webpack-contrib",
+          "githubRepo": "style-loader",
+          "githubCommit": "091d37d68abfb071c4fbdd335385cd6f1af114c6",
+          "githubTag": "v4.0.0",
+          "githubUrl": "git+https://github.com/webpack-contrib/style-loader.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "stylelint",
+          "ecosystem": "NPM",
+          "version": "16.26.1",
+          "githubOrg": "stylelint",
+          "githubRepo": "stylelint",
+          "githubCommit": "b96814344b7d1088e3459c44dcafebfbdabff412",
+          "githubTag": "16.26.1",
+          "githubUrl": "git+https://github.com/stylelint/stylelint.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "stylelint-config-standard-scss",
+          "ecosystem": "NPM",
+          "version": "16.0.0",
+          "githubOrg": "stylelint-scss",
+          "githubRepo": "stylelint-config-standard-scss",
+          "githubCommit": "ad966dc664a14eda987cf6199972b77ec34c4247",
+          "githubTag": "v16.0.0",
+          "githubUrl": "git+https://github.com/stylelint-scss/stylelint-config-standard-scss.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "stylelint-prettier",
+          "ecosystem": "NPM",
+          "version": "4.1.0",
+          "githubOrg": "prettier",
+          "githubRepo": "stylelint-prettier",
+          "githubCommit": "77ef23db9570de84e96c4af51e02bcff2f1221cf",
+          "githubTag": "v4.1.0",
+          "githubUrl": "git+https://github.com/prettier/stylelint-prettier.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "terser-webpack-plugin",
+          "ecosystem": "NPM",
+          "version": "5.4.0",
+          "githubOrg": "webpack",
+          "githubRepo": "minimizer-webpack-plugin",
+          "githubCommit": "543da6e282d654d804c8d9d86acdd5fde23d80bf",
+          "githubTag": "v5.4.0",
+          "githubUrl": "git+https://github.com/webpack/minimizer-webpack-plugin.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "webpack",
+          "ecosystem": "NPM",
+          "version": "5.105.1",
+          "githubOrg": "webpack",
+          "githubRepo": "webpack",
+          "githubCommit": "8e50ef2035b9cb727aeaa97d7561545d1c102b91",
+          "githubTag": "v5.105.1",
+          "githubUrl": "git+https://github.com/webpack/webpack.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "webpack-cli",
+          "ecosystem": "NPM",
+          "version": "5.0.0",
+          "githubOrg": "webpack",
+          "githubRepo": "webpack-cli",
+          "githubUrl": "git+https://github.com/webpack/webpack-cli.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "sphinx",
+          "ecosystem": "PYPI",
+          "version": "8.2",
+          "githubOrg": "sphinx-doc",
+          "githubRepo": "sphinx",
+          "githubUrl": "https://github.com/sphinx-doc/sphinx",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "babel",
+          "ecosystem": "PYPI",
+          "version": "2.18.0",
+          "githubOrg": "python-babel",
+          "githubRepo": "babel",
+          "githubCommit": "56c63caf50b18b152541b5dcafd51f645d867074",
+          "githubTag": "v2.18.0",
+          "githubUrl": "https://github.com/python-babel/babel",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pygments",
+          "ecosystem": "PYPI",
+          "version": "2.7",
+          "githubOrg": "pygments",
+          "githubRepo": "pygments",
+          "githubUrl": "https://github.com/pygments/pygments",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "accessible-pygments",
+          "ecosystem": "PYPI",
+          "version": "0.0.5",
+          "githubOrg": "Quansight-Labs",
+          "githubRepo": "accessible-pygments",
+          "githubCommit": "7e618765289e7ea1fe9a54e7c1e4681988d19c4c",
+          "githubTag": "v0.0.5",
+          "githubUrl": "https://github.com/Quansight-Labs/accessible-pygments",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "jinja2",
+          "ecosystem": "PYPI",
+          "version": "3.1.6",
+          "githubOrg": "pallets",
+          "githubRepo": "jinja",
+          "githubCommit": "15206881c006c79667fe5154fe80c01c65410679",
+          "githubTag": "3.1.6",
+          "githubUrl": "https://github.com/pallets/jinja",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "requests",
+          "ecosystem": "PYPI",
+          "version": "2.34.2",
+          "githubOrg": "psf",
+          "githubRepo": "requests",
+          "githubCommit": "6e83187b8feb273ed4c6cdab5efd8d54901dfab3",
+          "githubTag": "v2.34.2",
+          "githubUrl": "https://github.com/psf/requests",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "astroid",
+          "ecosystem": "PYPI",
+          "version": "3",
+          "githubOrg": "pylint-dev",
+          "githubRepo": "astroid",
+          "githubUrl": "https://github.com/pylint-dev/astroid",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "numpydoc",
+          "ecosystem": "PYPI",
+          "version": "1.11.0",
+          "githubOrg": "numpy",
+          "githubRepo": "numpydoc",
+          "githubCommit": "9c52969be60d16e0e5e758d3f5d9a2c802e9a232",
+          "githubTag": "v1.11.0",
+          "githubUrl": "https://github.com/numpy/numpydoc",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "linkify-it-py",
+          "ecosystem": "PYPI",
+          "version": "2.2.0",
+          "githubOrg": "tsutsu3",
+          "githubRepo": "linkify-it-py",
+          "githubCommit": "84af472a80932acaa102d016383fdd94f3c7743e",
+          "githubTag": "v2.2.0",
+          "githubUrl": "https://github.com/tsutsu3/linkify-it-py",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "rich",
+          "ecosystem": "PYPI",
+          "version": "15.0.0",
+          "githubOrg": "Textualize",
+          "githubRepo": "rich",
+          "githubCommit": "6ac483cbea39cab124dfd3483bba70ffafb71050",
+          "githubTag": "v15.0.0",
+          "githubUrl": "https://github.com/Textualize/rich",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "sphinxext-rediraffe",
+          "ecosystem": "PYPI",
+          "version": "0.3.0",
+          "githubOrg": "sphinx-doc",
+          "githubRepo": "sphinxext-rediraffe",
+          "githubCommit": "47273a20adad2e95732014fc0fecce13d31e36dc",
+          "githubTag": "v0.3.0",
+          "githubUrl": "https://github.com/sphinx-doc/sphinxext-rediraffe",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "sphinx-sitemap",
+          "ecosystem": "PYPI",
+          "version": "2.7.0",
+          "githubOrg": "jdillard",
+          "githubRepo": "sphinx-sitemap",
+          "githubCommit": "7a512111a269864629dcf155682fd1ce593e2f34",
+          "githubTag": "v2.7.0",
+          "githubUrl": "https://github.com/jdillard/sphinx-sitemap",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "sphinx-autoapi",
+          "ecosystem": "PYPI",
+          "version": "3.6.1",
+          "githubOrg": "readthedocs",
+          "githubRepo": "sphinx-autoapi",
+          "githubCommit": "0b4509e2726352ed6eb34822e6429e7090139240",
+          "githubTag": "v3.6.1",
+          "githubUrl": "http://github.com/readthedocs/sphinx-autoapi",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "myst-parser",
+          "ecosystem": "PYPI",
+          "version": "5.2.0",
+          "githubOrg": "executablebooks",
+          "githubRepo": "MyST-Parser",
+          "githubCommit": "5137add4d72260c99e0c2e9f9a7c2ff8306ec930",
+          "githubTag": "v5.2.0",
+          "githubUrl": "https://github.com/executablebooks/MyST-Parser",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "jupyter-sphinx",
+          "ecosystem": "PYPI",
+          "version": "0.5.3",
+          "githubOrg": "jupyter",
+          "githubRepo": "jupyter-sphinx",
+          "githubCommit": "0d6b26c677334dbbd0f4d1935f50dcf3888c82c1",
+          "githubTag": "v0.5.3",
+          "githubUrl": "https://github.com/jupyter/jupyter-sphinx",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pandas",
+          "ecosystem": "PYPI",
+          "version": "3.1.1",
+          "githubOrg": "pandas-dev",
+          "githubRepo": "pandas",
+          "githubCommit": "3dcc6fbbbebc5e85dd3e83fe49b382ca7735cae1",
+          "githubTag": "v3.1.1",
+          "githubUrl": "https://github.com/pandas-dev/pandas",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "plotly",
+          "ecosystem": "PYPI",
+          "version": "7.1.0",
+          "githubOrg": "plotly",
+          "githubRepo": "plotly.py",
+          "githubCommit": "243bfd0fa5c0a5c29a185e4034a1ab5b111695a5",
+          "githubTag": "v7.1.0",
+          "githubUrl": "https://github.com/plotly/plotly.py",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "matplotlib",
+          "ecosystem": "PYPI",
+          "version": "3.11.2",
+          "githubOrg": "matplotlib",
+          "githubRepo": "matplotlib",
+          "githubCommit": "d3ca9172e392048ec242b90e8423e88d1a3000b2",
+          "githubTag": "v3.11.2",
+          "githubUrl": "https://github.com/matplotlib/matplotlib",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "numpy",
+          "ecosystem": "PYPI",
+          "version": "2.5.5",
+          "githubOrg": "numpy",
+          "githubRepo": "numpy",
+          "githubCommit": "afcbc6d21a88a7b59c5bfe115198e24ed51b3dae",
+          "githubTag": "v2.5.5",
+          "githubUrl": "https://github.com/numpy/numpy",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "xarray",
+          "ecosystem": "PYPI",
+          "version": "2026.9.0",
+          "githubOrg": "pydata",
+          "githubRepo": "xarray",
+          "githubUrl": "https://github.com/pydata/xarray",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "sphinx-copybutton",
+          "ecosystem": "PYPI",
+          "version": "0.5.2",
+          "githubOrg": "executablebooks",
+          "githubRepo": "sphinx-copybutton",
+          "githubCommit": "4a8050dea36536b005d3e757b1ac09886174f634",
+          "githubTag": "v0.5.2",
+          "githubUrl": "https://github.com/executablebooks/sphinx-copybutton",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "sphinx-design",
+          "ecosystem": "PYPI",
+          "version": "0.8.0",
+          "githubOrg": "executablebooks",
+          "githubRepo": "sphinx-design",
+          "githubCommit": "fcaa5b34945a1ce06de1fcc514b0f22f64403a73",
+          "githubTag": "v0.8.0",
+          "githubUrl": "https://github.com/executablebooks/sphinx-design",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "sphinx-togglebutton",
+          "ecosystem": "PYPI",
+          "version": "0.4.5",
+          "githubOrg": "executablebooks",
+          "githubRepo": "sphinx-togglebutton",
+          "githubCommit": "76bb31f8824428cf66acc864ad6506dcbf90051a",
+          "githubTag": "v0.4.5",
+          "githubUrl": "https://github.com/executablebooks/sphinx-togglebutton",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "sphinxcontrib-mermaid",
+          "ecosystem": "PYPI",
+          "version": "2.1.1",
+          "githubOrg": "mgaitan",
+          "githubRepo": "sphinxcontrib-mermaid",
+          "githubCommit": "6e51230b4781f578efdc54af5bae0952e1627c53",
+          "githubTag": "2.1.1",
+          "githubUrl": "https://github.com/mgaitan/sphinxcontrib-mermaid",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "sphinxcontrib-youtube",
+          "ecosystem": "PYPI",
+          "version": "1.4.1",
+          "githubOrg": "sphinx-contrib",
+          "githubRepo": "youtube",
+          "githubCommit": "fff4ab29a8606676fe5d64850a2f50114d8be3eb",
+          "githubTag": "v1.4.1",
+          "githubUrl": "https://github.com/sphinx-contrib/youtube",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "sphinx-favicon",
+          "ecosystem": "PYPI",
+          "version": "1.0.1",
+          "githubOrg": "tcmetzger",
+          "githubRepo": "sphinx-favicon",
+          "githubCommit": "e7380e08d4898136408b9f175b7cd62781a4cb5b",
+          "githubTag": "v1.0.1",
+          "githubUrl": "https://github.com/tcmetzger/sphinx-favicon",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "ipykernel",
+          "ecosystem": "PYPI",
+          "version": "7.4.0",
+          "githubOrg": "ipython",
+          "githubRepo": "ipykernel",
+          "githubCommit": "cfa461d8afac05cefc3671128d00adaa3c0720f4",
+          "githubTag": "v7.4.0",
+          "githubUrl": "https://github.com/ipython/ipykernel",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "nbsphinx",
+          "ecosystem": "PYPI",
+          "version": "0.9.8",
+          "githubOrg": "spatialaudio",
+          "githubRepo": "nbsphinx",
+          "githubCommit": "4f07420639de321d63681ee8c560f73cb0c4a85f",
+          "githubTag": "0.9.8",
+          "githubUrl": "https://github.com/spatialaudio/nbsphinx",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "ipyleaflet",
+          "ecosystem": "PYPI",
+          "version": "0.20.0",
+          "githubOrg": "jupyter-widgets",
+          "githubRepo": "ipyleaflet",
+          "githubCommit": "eceb588baceb8e30b7d297fb5a81a1f915294d13",
+          "githubTag": "0.20.0",
+          "githubUrl": "https://github.com/jupyter-widgets/ipyleaflet",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "colorama",
+          "ecosystem": "PYPI",
+          "version": "0.4.6",
+          "githubOrg": "tartley",
+          "githubRepo": "colorama",
+          "githubCommit": "3de9f013df4b470069d03d250224062e8cf15c49",
+          "githubTag": "0.4.6",
+          "githubUrl": "https://github.com/tartley/colorama",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "graphviz",
+          "ecosystem": "PYPI",
+          "version": "0.21.0",
+          "githubOrg": "xflr6",
+          "githubRepo": "graphviz",
+          "githubUrl": "https://github.com/xflr6/graphviz",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pyyaml",
+          "ecosystem": "PYPI",
+          "version": "6.0.4",
+          "githubOrg": "yaml",
+          "githubRepo": "pyyaml",
+          "githubCommit": "575f0e87bcc3b95f4df8da4aaddb0bef4e4553fc",
+          "githubTag": "6.0.4",
+          "githubUrl": "https://github.com/yaml/pyyaml",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pre-commit",
+          "ecosystem": "PYPI",
+          "version": "4.7.0",
+          "githubOrg": "pre-commit",
+          "githubRepo": "pre-commit",
+          "githubCommit": "65bb884a567e8be6adc51e8bfbcf26f708eb35a2",
+          "githubTag": "v4.7.0",
+          "githubUrl": "https://github.com/pre-commit/pre-commit",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "tox",
+          "ecosystem": "PYPI",
+          "version": "4.67.15",
+          "githubOrg": "tox-dev",
+          "githubRepo": "tox",
+          "githubCommit": "4cffc505320787670883d96613c69a9c2eea2acf",
+          "githubTag": "4.67.15",
+          "githubUrl": "https://github.com/tox-dev/tox",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "sphinx-theme-builder",
+          "ecosystem": "PYPI",
+          "version": "0.3.2",
+          "githubOrg": "pradyunsg",
+          "githubRepo": "sphinx-theme-builder",
+          "githubCommit": "1deadeb48eb24a4cafd68a995113f8e106352b9c",
+          "githubTag": "0.3.2",
+          "githubUrl": "https://github.com/pradyunsg/sphinx-theme-builder",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest",
+          "ecosystem": "PYPI",
+          "version": "9.2.0",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubCommit": "ae1d0ff57b8bd4252da9ade7353523ac0ac73281",
+          "githubTag": "9.2.0",
+          "githubUrl": "https://github.com/pytest-dev/pytest",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest-cov",
+          "ecosystem": "PYPI",
+          "version": "7.1.0",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest-cov",
+          "githubCommit": "66c8a526b1246b5eb8fb1bc218878131bc628622",
+          "githubTag": "v7.1.0",
+          "githubUrl": "https://github.com/pytest-dev/pytest-cov",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest-regressions",
+          "ecosystem": "PYPI",
+          "version": "2.11.0",
+          "githubOrg": "ESSS",
+          "githubRepo": "pytest-regressions",
+          "githubCommit": "ff8c2da9b67192a24a8851c72754394cc4bc5067",
+          "githubTag": "v2.11.0",
+          "githubUrl": "https://github.com/ESSS/pytest-regressions",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest-playwright",
+          "ecosystem": "PYPI",
+          "version": "0.10.0",
+          "githubOrg": "microsoft",
+          "githubRepo": "playwright-pytest",
+          "githubCommit": "80d7569debc94f648e39ba2d2ccb2a580283894a",
+          "githubTag": "v0.10.0",
+          "githubUrl": "https://github.com/microsoft/playwright-pytest",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "typing-extensions",
+          "ecosystem": "PYPI",
+          "version": "4.16.0",
+          "githubOrg": "python",
+          "githubRepo": "typing_extensions",
+          "githubCommit": "f29cd28d8ed7642cafb1d18daf5aa41be6a5c0aa",
+          "githubTag": "4.16.0",
+          "githubUrl": "https://github.com/python/typing_extensions",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "builtins",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "re",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "pathlib._local",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "typing",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "textwrap",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "urllib.parse",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "itertools",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "posixpath",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "json",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "functools",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "ntpath",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "_collections_abc",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "subprocess",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "shlex",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "shutil",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "time",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "http.client",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "importlib.util",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "sys",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "argparse",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "tempfile",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "types",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "copy",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "urllib.request",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "collections",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "os",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "lib.dom.d.ts",
+          "ecosystem": "NPM",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "source": "stdlib:typescript_lib"
+        },
+        {
+          "packageName": "lib.es2015.iterable.d.ts",
+          "ecosystem": "NPM",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "source": "stdlib:typescript_lib"
+        },
+        {
+          "packageName": "lib.es5.d.ts",
+          "ecosystem": "NPM",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "source": "stdlib:typescript_lib"
+        },
+        {
+          "packageName": "lib.scripthost.d.ts",
+          "ecosystem": "NPM",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "source": "stdlib:typescript_lib"
+        },
+        {
+          "packageName": "lib.es2015.symbol.wellknown.d.ts",
+          "ecosystem": "NPM",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "source": "stdlib:typescript_lib"
+        },
+        {
+          "packageName": "lib.es2020.date.d.ts",
+          "ecosystem": "NPM",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "source": "stdlib:typescript_lib"
+        },
+        {
+          "packageName": "lib.es2020.promise.d.ts",
+          "ecosystem": "NPM",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "source": "stdlib:typescript_lib"
+        },
+        {
+          "packageName": "lib.es2015.collection.d.ts",
+          "ecosystem": "NPM",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "source": "stdlib:typescript_lib"
+        },
+        {
+          "packageName": "lib.es2015.core.d.ts",
+          "ecosystem": "NPM",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "source": "stdlib:typescript_lib"
+        },
+        {
+          "packageName": "pathlib",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "urllib",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "dataclasses",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "http",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "importlib",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        }
       ]
     }
   ],
